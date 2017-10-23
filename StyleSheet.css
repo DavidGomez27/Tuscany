@@ -1,0 +1,163 @@
+﻿body {
+  
+}
+.tuscanyVilla {
+    background-image: url('NewFolder1/TuscanyPics/tuscany-villas-sant-anna.jpg');
+    background-size: cover;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    height: 349px;
+}
+
+#jumbotron{
+    color:white;
+}
+
+.navbar{
+    color:white
+}
+
+#navvy.navbar.navbar-static-top{
+    color: white;
+    background-color: #565966;
+    height: 100px;
+    padding-top: 25px;
+    font-size: 16px;
+    margin-bottom:10px;
+    padding-bottom:0;
+}
+
+   
+}
+#jumbotron {
+    background-image: url('Images/Versilia.jpg');
+    background-repeat: no-repeat;
+    background-position:center;
+    height: 100px;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    color:white;
+}
+
+
+.bannerText{
+    height:150px;
+    color:white;
+    text-align:center;
+    background-color:#565966;
+    padding-top:0;
+}
+.locations{
+    height:100%;
+}
+
+#firstLoc {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    height: 100%;
+}  
+#blueButton{
+    color:white;
+    background-color:#565966;
+    border-radius:0;
+}
+#whiteButton{
+    color: #565966;
+    background-color:white;
+    border-radius:0;
+    margin-left: 50px;
+}
+.pLeft{
+    text-align: left;
+    float:left;
+    margin-right: 450px;
+    width: 500px;
+   
+}
+#nightRange{
+     padding-left:20px;
+     height:100%;
+     width:100%;
+
+}
+#secondLoc{
+      background-color:#565966;
+      padding-top:5%;
+      padding-bottom:5%;
+      height:100%;
+}
+
+.pRight {
+    text-align: left;
+    margin-left: 50px;
+    width: 500px;
+    color:white;
+}
+
+
+#villaPool{
+     
+     padding-left:20px;
+     height:100%;
+     width:100%;
+}
+#thirdLoc{
+     padding-top:5%;
+     padding-bottom:5%;
+     height:100%;
+     
+}
+
+#boxPic1 {
+    background-image:url(' NewFolder1/TuscanyPics/3b-348x348 (1).jpg');
+}
+#boxPic2 {
+    background-image:url(' NewFolder1/TuscanyPics/poolpic.jpg');
+}
+#boxPic3 {
+    background-image:url('NewFolder1/TuscanyPics/314-348x348.jpg');
+}
+#boxPic4 {
+    background-image:url('NewFolder1/TuscanyPics/Villa-Rucellai-Toscani-2812-2-348x348.jpg');
+}
+#boxPic5 {
+    background-image:url('NewFolder1/TuscanyPics/Villa-Vanna-231-348x348.jpg');
+}
+.ammenitiesOne{
+    height:100%;
+    width:100%;
+    padding-top:5%;
+    padding-left:5%;
+    padding-right:5%;
+    padding-bottom:5%;
+}
+
+.clearPic {
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    
+    background-position:center;
+    height:352px;
+    
+}
+
+}
+.checkText{
+    vertical-align:middle;
+    text-align:center;
+    padding-top:5%;
+    padding-bottom:10%;
+    height:100%;
+}
+
+.carousel-inner{
+    text-align:center;
+}
+
+#footer{
+    padding-top:3%;
+}
